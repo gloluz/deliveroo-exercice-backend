@@ -11,3 +11,7 @@ First clone this project :
 To read this project :
 
 `npm start`
+
+To read in dev mode :
+
+`npm run dev`

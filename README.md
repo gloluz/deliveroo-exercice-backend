@@ -17,3 +17,11 @@ To read this project :
 To read in dev mode :
 
 `npm run dev`
+
+## Contributing
+
+To contributing please refer to the [CONTRIBUTING.MD](CONTRIBUTING.MD)
+
+## License
+
+[LICENSE MIT](LICENSE)
